@@ -36,7 +36,7 @@ To connect the ZED-F9R to u-center software, you can attach a USB Type-C cable t
 
 ## Documentation
 
-* [GPS RTK Breakout Hardware](https://github.com/sbcshop/UHF_Lite_HAT_Software)
+* [GPS RTK Breakout Hardware](https://github.com/sbcshop/GPS_RTK_Breakout_Hardware)
 * [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 * [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
 * [Raspberry Pi Datasheet](https://www.raspberrypi.com/documentation/computers/compute-module.html)
