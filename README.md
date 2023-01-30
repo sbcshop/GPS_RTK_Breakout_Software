@@ -18,10 +18,13 @@ Just like the breakout board, the small metal disk just to the right of the ZED-
 
 ## LED’s
 Just like the breakout board, there are four LEDs on the bottom left of the board. Starting from the left:
-PWR: The power LED labeled as PWR will illuminate when 3.3V is activated.
-PPS: The pulse per second LED labeled as PPS will illuminate each second once a position lock has been achieved. This generates a pulse that is synchronized with a GPS or UTC time grid. By default, you'll see one pulse a second.
-RTK: The RTK LED will be illuminated constantly upon power-up. Once RTCM data has been successfully received it will begin to blink. This is a good way to see if the ZED-F9R is getting RTCM from various sources. Once an RTK fix is obtained, the LED will turn off.
-GEO: The GEO LED can be configured to turn on/off for geofencing applications.
+
+* ***PWR:*** The power LED labeled as PWR will illuminate when 3.3V is activated.
+* ***PPS:*** The pulse per second LED labeled as PPS will illuminate each second once a position lock has been achieved. This generates a pulse that is synchronized with a GPS or UTC time grid. By default, you'll see one pulse a second.
+
+* ***RTK:*** The RTK LED will be illuminated constantly upon power-up. Once RTCM data has been successfully received it will begin to blink. This is a good way to see if the ZED-F9R is getting RTCM from various sources. Once an RTK fix is obtained, the LED will turn off.
+
+* ***GEO:*** The GEO LED can be configured to turn on/off for geofencing applications.
 
 
 
