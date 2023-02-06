@@ -60,7 +60,7 @@ For using this Breakout with USB cable you have to install the USB driver and a 
 
 ## Documentation
 
-* [GPS RTK HAT Hardware](https://github.com/sbcshop/GPS_RTK_HAT_Hardware)
+* [GPS RTK Breakout Hardware]()
 * [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 * [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
 * [Raspberry Pi Datasheet](https://www.raspberrypi.com/documentation/computers/compute-module.html)
@@ -74,7 +74,7 @@ For using this Breakout with USB cable you have to install the USB driver and a 
 
  ![GPS HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/GPSHATforRaspberryPi_4.png?v=1648553361&width=400)
  
- * [GPS RTK ]()
+ * [GPS RTK HAT]()
 
  ![GPS RTK HAT]()
  
