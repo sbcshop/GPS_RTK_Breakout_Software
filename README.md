@@ -1,4 +1,4 @@
-# GPS RTK HAT 
+# GPS RTK Breakout 
 
 With GPS, you can determine your location, your direction, and your route to any location on Earth in less than 30 seconds. Therefore, the better the precision, the higher! We had to include it on this board since GPS Real Time Kinematics (RTK) has perfected fine-tuning the accuracy of their GPS modules to just millimetres!
 
@@ -29,23 +29,23 @@ To connect the ZED-F9R to u-center software, you can attach a USB Type-C cable t
 
 ## Steps to Setup With Pi:
 
-**Step.1 -** To start working with our GPS RTK HAT with Rasberry pi/Rock pi, you to setup your pi board to boot by uploading lates OS of it.
+**Step.1 -** To start working with our GPS RTK Breakout with Rasberry pi/Rock pi, you to setup your pi board to boot by uploading lates OS of it.
 
-**Step.2 -** After that, attach the GPS RTK HAT on your Pi board and power it by providing suitable power supply. 
+**Step.2 -** After that, attach the GPS RTK Breakout on your Pi board and power it by providing suitable power supply. 
 
 **Step.3 -** Once your Pi is booted, open command line and type the below command to clone this repository:
 ```
-git clone https://github.com/sbcshop/GPS_RTK_HAT_Software.git
+git clone https://github.com/sbcshop/GPS_RTK_Breakout_Software.git
 ```
 
 **Step.4 -** After downloading this repository in your Pi board, you can run any of examples provided in this repository. Make sure before running any example code, move it out of ***Examples folder*** and then open it to run.
 
 
-## Using GPS RTK HAT Via USB:
+## Using GPS RTK Breakout Via USB:
 
-For using this HAT with USB cable you have to install the USB driver and a Software Application of ublox. For this you can visit the links below, [**Download USB Driver**](https://deviceinbox.com/drivers/1870-u-blox-gnss-standard-usb-driver.html) [**Download Software Application**](https://www.u-blox.com/en/product/u-center) and we have also provided it in this repository. After making these setup follow the steps below:
+For using this Breakout with USB cable you have to install the USB driver and a Software Application of ublox. For this you can visit the links below, [**Download USB Driver**](https://deviceinbox.com/drivers/1870-u-blox-gnss-standard-usb-driver.html) [**Download Software Application**](https://www.u-blox.com/en/product/u-center) and we have also provided it in this repository. After making these setup follow the steps below:
 
-**Step.1 -** After intalling the above mentioned software, plugin your GPS RTK HAT to your system via USB Type-C cable and check for the available COM port. As shon in below image
+**Step.1 -** After intalling the above mentioned software, plugin your GPS RTK Breakout to your system via USB Type-C cable and check for the available COM port. As shon in below image
 
 <img src ="https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/images/Scr1.png" />
 
@@ -73,6 +73,12 @@ For using this HAT with USB cable you have to install the USB driver and a Softw
 * [GPS HAT](https://shop.sb-components.co.uk/products/gps-hat-for-raspberry-pi?_pos=1&_sid=c0a565487&_ss=r)
 
  ![GPS HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/GPSHATforRaspberryPi_4.png?v=1648553361&width=400)
+ 
+ * [GPS RTK ]()
+
+ ![GPS RTK HAT]()
+ 
+ 
 
 ## Product License
 
