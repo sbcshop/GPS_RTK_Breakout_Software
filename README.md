@@ -44,7 +44,7 @@ git clone https://github.com/sbcshop/GPS_RTK_Breakout_Software.git
 
 
 ## Using GPS RTK HAT Via USB:
-<img src = "https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/images/img2.JPG" />
+<img src = "https://github.com/sbcshop/GPS_RTK_Breakout_Software/blob/main/Images/img1.png"/>
  
 For using this HAT with USB cable you have to install the USB driver and a Software Application of ublox(U Center). For this you can visit the links below,
 
