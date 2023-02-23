@@ -29,7 +29,7 @@ Just like the breakout board, there are four LEDs on the bottom left of the boar
 To connect the ZED-F9R to u-center software, you can attach a USB Type-C cable to the connector.
 
 
-## Steps to Setup With Pi:
+## Steps to Setup With Raspberry pi 
 
 **Step.1 -** To start working with our GPS RTK Breakout with Rasberry pi/Rock pi, you to setup your pi board to boot by uploading lates OS of it.
 
@@ -63,13 +63,6 @@ For using this Breakout with USB cable you have to install the USB driver and a 
 **Step.2 -** Ublox begins to receive data from numerous satellites from different country as soon as you connect to the correct port, as seen in the figure below.
 <img src ="https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/images/img.JPG" />
 <img src ="https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/images/img3.JPG" />
-
-
-
-
-
-
-
 
 ## Documentation
 
