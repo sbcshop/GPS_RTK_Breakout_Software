@@ -8,7 +8,7 @@ The GPS-RTK HAT from SB Components enhanced high-precision GPS. The ZED-F9P modu
 
 ## Hardware Overview
 
-Specifications Image(.jpg)
+<img src = "https://github.com/sbcshop/GPS_RTK_Breakout_Software/blob/main/Images/img3.png"/>
 
 
 ## Battery
