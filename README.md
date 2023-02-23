@@ -1,8 +1,8 @@
 # GPS RTK Breakout 
 
-Using  GPS RTK Breakout, you can pinpoint your location, your direction, and your path to any place on Earth in less than 30 seconds. Hence, the higher the accuracy, the better! Since GPS Real Time Kinematics (RTK) has mastered fine-tuning its GPS modules' accuracy to only millimetres, we had to incorporate it on this board!
+In less than 30 seconds, GPS RTK Breakout enables you to determine your position, direction, and travel route to any destination on Earth. So, the better the precision, the more! We had to include it on this board since GPS Real Time Kinematics (RTK) has perfected fine-tuning its GPS modules' accuracy to only millimetres!
 
-High-precision GPS was improved by SB Components' GPS-RTK HAT. It has the most latest ZED-F9P module from u-blox, which provides 10mm of 3-dimensional precision. These boards can create X, Y, and Z locations that are about the width of your fingernail. You read that correctly. A stream of correction data from an RTCM source and a strong antenna are both necessary for high accuracy GPS.
+The GPS-RTK HAT from SB Components enhanced high-precision GPS. The ZED-F9P module from u-Blox, which offers 10mm of 3-dimensional accuracy, is the newest one that it has. The X, Y, and Z coordinates that may be generated using these boards are roughly the width of your fingernail. That is what you just read. High precision GPS requires both a stream of correction data from an RTCM source and a powerful antenna.
 
 ## Hardware Overview
 
