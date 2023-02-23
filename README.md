@@ -78,8 +78,7 @@ Follow below steps:
 
 Then, reboot the Raspberry Pi
 
-**Step.5 -** After downloading this repository in your Pi board, you can run any of examples provided in this repository. Make sure before running any example code, move it out of ***Examples folder*** and then open it to run.
-
+**Step.5 -** After installing this repository on your Pi board, you will see a raspberry pi folder with examples and execute examples.
 
 ## Using GPS RTK HAT Via USB:
 <img src = "https://github.com/sbcshop/GPS_RTK_Breakout_Software/blob/main/Images/img1.png"/>
