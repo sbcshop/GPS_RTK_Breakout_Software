@@ -53,9 +53,9 @@ To connect the ZED-F9R to u-center software, you can attach a USB Type-C cable t
 
 <img src = "https://github.com/sbcshop/GPS_RTK_Breakout_Software/blob/main/Images/img2.png"/>
 
-### ***TX of breakout connect to RX(UART0) of Raspberry pi***
+***TX of breakout connect to RX(UART0) of Raspberry pi***
 
-### ***RX of breakout connect to TX(UART0) of Raspberry pi***
+***RX of breakout connect to TX(UART0) of Raspberry pi***
 
 **Step.1 -** To start working with our GPS RTK Breakout with Rasberry pi/Rock pi, you to setup your pi board to boot by uploading lates OS of it.
 
