@@ -88,6 +88,7 @@ For using this Breakout with USB cable you have to install the USB driver and a 
 
 ## Documentation
 
+* [ZED-F9P Datasheet](https://github.com/sbcshop/GPS_RTK_Breakout_Hardware/blob/main/Documents/ZED-F9P_DataSheet.pdf)
 * [GPS RTK Breakout Hardware]()
 * [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 * [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
