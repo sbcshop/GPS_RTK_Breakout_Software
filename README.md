@@ -75,7 +75,7 @@ For using this Breakout with USB cable you have to install the USB driver and a 
 [**Download Software Application**](https://www.u-blox.com/en/product/u-center) and we have also provided it in this repository. After making these setup follow the steps below:
 
 #### To learn how to use U Center application, click here.
-[u-center User guide ](https://github.com/sbcshop/GPS_RTK_HAT_Hardware/blob/main/u-center_Userguide.pdf)
+[u-center User guide ](https://github.com/sbcshop/GPS_RTK_Breakout_Hardware/blob/main/u-center_Userguide.pdf)
 
 **Step.1 -** After intalling the above mentioned software, plugin your GPS RTK HAT to your system via USB Type-C cable and check for the available COM port. As shon in below image
 
