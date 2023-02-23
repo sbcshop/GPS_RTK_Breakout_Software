@@ -33,7 +33,7 @@
 
 
 import serial
-from lib import ublox_zed_f9p
+from Library import ublox_zed_f9p
 
 ser = serial.Serial('/dev/ttyS0', baudrate=38400, timeout=1)
 gps = ublox_zed_f9p.Ublox_F9P(ser)
