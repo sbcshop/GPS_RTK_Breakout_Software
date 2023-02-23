@@ -110,9 +110,9 @@ For using this Breakout with USB cable you have to install the USB driver and a 
 
  ![GPS HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/GPSHATforRaspberryPi_4.png?v=1648553361&width=400)
  
- * [GPS RTK HAT]()
+ * [GPS RTK HAT](https://shop.sb-components.co.uk/products/ublox-gps-rtk-breakout)
 
- ![GPS RTK HAT]()
+ ![GPS RTK HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/5_21738e56-f890-4587-8fb8-332dce0a10fc.png?v=1675163291&width=700)
  
  
 
