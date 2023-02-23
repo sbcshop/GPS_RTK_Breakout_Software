@@ -76,6 +76,8 @@ Follow below steps:
 <img src ="https://github.com/sbcshop/GPS_RTK_Breakout_Software/blob/main/Images/UART3.png"/>
 <img src ="https://github.com/sbcshop/GPS_RTK_Breakout_Software/blob/main/Images/UART4.png"/>
 
+Then, reboot the Raspberry Pi
+
 **Step.5 -** After downloading this repository in your Pi board, you can run any of examples provided in this repository. Make sure before running any example code, move it out of ***Examples folder*** and then open it to run.
 
 
