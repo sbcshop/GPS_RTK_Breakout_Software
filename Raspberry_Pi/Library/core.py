@@ -1,5 +1,5 @@
 #This code is based on the work by daylomople (https://github.com/dalymople) and the awesome parsing capabilities of ubxtranslator (https://github.com/dalymople/ubxtranslator). 
-"""The core structure definitions"""
+""" The core structure definitions """
 
 import struct
 from collections import namedtuple
