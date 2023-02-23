@@ -27,6 +27,14 @@ Just like the breakout board, there are four LEDs on the bottom left of the boar
 #### USB
 To connect the ZED-F9R to u-center software, you can attach a USB Type-C cable to the connector.
 
+## Communication Protocol
+
+* UART 
+   * The ZED-F9P has traditional serial pins. The UART(RX/TX) pins are activated by default. Make that the UART/SPI jumper is open on top of the board. 
+   * The ZED-F9P has a second serial port UART2(TX2/RX2) that is mostly utilised for RTCM3 correction data. This port's default behaviour is to automatically accept        and interpret incoming RTCM3 strings, enabling the board's RTK mode.
+* I2C 
+   *  By default, the I2C pins are enabled.
+   
 ## Features
 * Horizontal Position Accuracy:
      * 2.5m without RTK
