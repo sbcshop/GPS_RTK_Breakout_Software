@@ -1,5 +1,5 @@
 '''
-#------------------------------------------------------------------------
+#----------------------------------------------------------------------------------
 #
 # This is a python Example code for GPS RTK HAT to get date and time by calling its function
 # Written by SB Components Ltd 
