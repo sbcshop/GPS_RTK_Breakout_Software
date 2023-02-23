@@ -95,6 +95,12 @@ For using this Breakout with USB cable you have to install the USB driver and a 
 * [Hardware Design](https://www.raspberrypi.com/documentation/computers/compute-module.html)
 * [Raspberry Pi](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 
+### NMEA Protocol
+https://github.com/sbcshop/GPS_RTK_HAT_Hardware/blob/main/NMEA%20Protocol%20Manual.pdf
+
+### Ublox ZED-F9P Integration Manual
+https://github.com/sbcshop/GPS_RTK_HAT_Hardware/blob/main/Ublox%20ZED-F9P_Integration_Manual.pdf
+
 
 ## Related Products
 
