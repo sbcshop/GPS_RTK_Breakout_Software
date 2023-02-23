@@ -34,7 +34,7 @@
 
 import serial
 import sys
-sys.path.insert(0,'/home/pi/GPS_RTK_HAT_Software-main/GPS_RTK_HAT_Software-main/lib')# Make sure use your library path here
+sys.path.insert(0,'/home/pi/GPS_RTK_Breakout_Software-main/GPS_RTK_Breakout_Software-main/Library')# Make sure use your library path here
 import ublox_zed_f9p
 ser = serial.Serial('/dev/ttyS0', baudrate=38400, timeout=1)
 gps = ublox_zed_f9p.Ublox_F9P(ser)
