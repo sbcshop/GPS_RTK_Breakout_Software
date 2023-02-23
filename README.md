@@ -41,15 +41,26 @@ git clone https://github.com/sbcshop/GPS_RTK_Breakout_Software.git
 **Step.4 -** After downloading this repository in your Pi board, you can run any of examples provided in this repository. Make sure before running any example code, move it out of ***Examples folder*** and then open it to run.
 
 
-## Using GPS RTK Breakout Via USB:
+## Using GPS RTK HAT Via USB:
+<img src = "https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/images/img2.JPG" />
+ 
+For using this HAT with USB cable you have to install the USB driver and a Software Application of ublox(U Center). For this you can visit the links below,
 
-For using this Breakout with USB cable you have to install the USB driver and a Software Application of ublox. For this you can visit the links below, [**Download USB Driver**](https://deviceinbox.com/drivers/1870-u-blox-gnss-standard-usb-driver.html) [**Download Software Application**](https://www.u-blox.com/en/product/u-center) and we have also provided it in this repository. After making these setup follow the steps below:
+[**Download USB Driver**](https://deviceinbox.com/drivers/1870-u-blox-gnss-standard-usb-driver.html)
 
-**Step.1 -** After intalling the above mentioned software, plugin your GPS RTK Breakout to your system via USB Type-C cable and check for the available COM port. As shon in below image
+[**Download Software Application**](https://www.u-blox.com/en/product/u-center) and we have also provided it in this repository. After making these setup follow the steps below:
 
+#### To learn how to use U Center application, click here.
+[u-center User guide ](https://github.com/sbcshop/GPS_RTK_HAT_Hardware/blob/main/u-center_Userguide.pdf)
+
+**Step.1 -** After intalling the above mentioned software, plugin your GPS RTK HAT to your system via USB Type-C cable and check for the available COM port. As shon in below image
+
+<img src ="https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/images/Scr2.png" />
 <img src ="https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/images/Scr1.png" />
 
-**Step.2 -** Now, 
+**Step.2 -** Ublox begins to receive data from numerous satellites from different country as soon as you connect to the correct port, as seen in the figure below.
+<img src ="https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/images/img.JPG" />
+<img src ="https://github.com/sbcshop/GPS_RTK_HAT_Software/blob/main/images/img3.JPG" />
 
 
 
